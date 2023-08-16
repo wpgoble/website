@@ -23,7 +23,7 @@ Hello world
 
 <details>
 
-    <summary></summary>
+    <summary>Fall 2023</summary>
 
     ###Dickinson College
     * COMP 130: Intro to Computing
