@@ -1,6 +1,4 @@
 theme: jekyll-theme-architect
-markdown: kramdown
-karmdown: parse_block_html: true
 
 title: "Prof. Goble"
 description: "A collection of courses taught and personal work"
