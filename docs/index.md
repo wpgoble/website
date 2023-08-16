@@ -25,4 +25,7 @@ layout: default
 
 {::options parse_block_html="false" /}
 
-Hello World
+{::options parse_block_html="true" /}
+<details><summary markdown="h1">Personal Projects</summary>
+</details>
+{::options parse_block_html="false" /}
