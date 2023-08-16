@@ -1,0 +1,10 @@
+theme: jekyll-theme-architect
+
+title: "Prof. Goble's Website"
+
+hide_first_title: true
+show_downloads: false
+buttons:
+  zip_hide: true
+  tar_hide: true
+  github_hide: true
