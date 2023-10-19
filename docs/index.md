@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DA959&center=true&vCenter=true&random=false&width=435&lines=Computer+Science+Professor;Programming+Language+Enthusiast+;Neovim+Advocate)](https://git.io/typing-svg)
+
 # Courses Taught
 {::options parse_block_html="true" /}
 
